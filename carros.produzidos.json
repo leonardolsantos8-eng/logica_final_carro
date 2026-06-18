@@ -1,0 +1,37 @@
+{
+    "Segunda": {
+        "Manh\u00e3": 6.0,
+        "Tarde": 7.0,
+        "Noite": 9.0
+    },
+    "Ter\u00e7a": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    },
+    "Quarta": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    },
+    "Quinta": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    },
+    "Sexta": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    },
+    "S\u00e1bado": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    },
+    "Domingo": {
+        "Manh\u00e3": 7.0,
+        "Tarde": 7.0,
+        "Noite": 7.0
+    }
+}
